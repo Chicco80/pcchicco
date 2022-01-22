@@ -1,0 +1,63 @@
+/* immagine desktop */
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+}
+/* header */
+.centrare{
+  text-align: center;
+}
+.riquadro{
+  width:800px;
+ height:600px;
+ background:rgba(0,0,0,0.5);
+ margin:auto;
+ border-radius:10px 10px 10px 10px;
+ padding: 50px;
+}
+.lime{
+  width: 160px;
+  bor
+}
+.titolo{
+color:lime
+}
+/* navigazione */
+.naviga{
+    background-color: lime;
+    padding: 8px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+/* corpo */
+.colorefont{
+  color:white;
+
+}
+.gino2{
+  margin-bottom: 20px;
+}
+.mono{
+  font-size:20px;
+}
+.batteria{
+  width: 250px;
+  height: 30px;
+  background-color: orange;
+  border:5px solid orange;
+  border-radius: 10px 10px 10px 10px;
+}
+.carica2{
+  width: 400px;
+  height: 30px;
+  background-color: lime;
+  border:5px solid lime;
+  border-radius: 10px 10px 10px 10px;
+}
+.carica3{
+  width: 150px;
+  height: 30px;
+  background-color: red;
+  border:5px solid red;
+  border-radius: 10px 10px 10px 10px;
+}
